@@ -3,4 +3,3 @@ numpy
 dash==2.6.2
 pandas
 statsmodels
-PYTHON_VERSION==3.10.8
